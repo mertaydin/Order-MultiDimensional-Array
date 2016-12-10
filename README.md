@@ -1,4 +1,4 @@
-# OrderMultiDimensionalArray
+# Order MultiDimensional Array
 So simple!
 
 Make your multidimensional array ordered with your selected array key.
